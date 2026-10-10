@@ -1,0 +1,8 @@
+{
+  "name": "Type-in Font Search",
+  "upstream": "https://github.com/storytold/effectcraft",
+  "base_commit": "608d1b077b65bb7591f26be587a2a5a47f4278bc",
+  "patch": "effectcraft-type-in-font-search.patch",
+  "sha256": "1e1b1393660847f06a724512d16d9738162c7ce546dd394917853f6834d56bba",
+  "combined_repository": "https://github.com/kikikikier/effectcraft-custom"
+}
